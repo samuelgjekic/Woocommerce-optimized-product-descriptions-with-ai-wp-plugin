@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**[Woocommerce optimized product descriptions with ai wp plugin** is a simple plugin designed to let you generate your product descriptions and optimize them using AI. It uses GPT4-Omni and can optimize product descriptions with high quality content and high quality SEO Keywords. 
+**Woocommerce optimized product descriptions with ai wp plugin** is a simple plugin designed to let you generate your product descriptions and optimize them using AI. It uses GPT4-Omni and can optimize product descriptions with high quality content and high quality SEO Keywords. 
 
 
 ## Motivation
