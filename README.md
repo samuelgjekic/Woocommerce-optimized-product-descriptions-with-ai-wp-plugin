@@ -8,7 +8,7 @@
 ## Let AI write high quality product descriptions for you
 
 Enter some information for the AI if you want to create the description from scratch:
-![inputtext](https://github.com/samuelgjekic/Woocommerce-optimized-product-descriptions-with-ai-wp-plugin/assets/41647182/764a4797-c183-4b87-b289-38bb3f4752ce)
+![inputtext](https://github.com/samuelgjekic/Woocommerce-optimized-product-descriptions-with-ai-wp-plugin/assets/41647182/ce68d7ac-d633-48b2-86e3-ececfe6ca690)
 
 
 In this case we added the data "kids pool 30x30x30 for ages 2-6"
