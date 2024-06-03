@@ -34,4 +34,3 @@ You can set the api key in the custom submenu in Woocommerce, where you can also
 
 ![settings](https://github.com/samuelgjekic/Woocommerce-optimized-product-descriptions-with-ai-wp-plugin/assets/41647182/3c498403-b208-4d36-b58b-dc829b79cc17)
 
-_NOTE THAT THE OPENAI KEY IS NOT ACTUALLY IN THE TEXTBOX, ITS JUST A PLACEHOLDER_ 
