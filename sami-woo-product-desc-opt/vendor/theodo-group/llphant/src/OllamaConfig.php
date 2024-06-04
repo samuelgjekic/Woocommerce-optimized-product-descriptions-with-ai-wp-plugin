@@ -8,7 +8,7 @@ class OllamaConfig
 {
     public string $model;
 
-    public string $url = 'http://localhost:11434/api/';
+    public string $url = '';
 
     public bool $stream = false;
 

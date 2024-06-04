@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Sami Woocommerce AI Product Optimizer
+Plugin Name: Sami AI Product Optimizer For Woocommerce
 Plugin URI:  https://yourwebsite.com/sami-optim
 Description: An AI-powered WooCommerce product description optimizer.
-Version:     1.0.1
+Version:     1.0.2
 Author:      Samuel Gjekic
 Author URI:  https://
 */
