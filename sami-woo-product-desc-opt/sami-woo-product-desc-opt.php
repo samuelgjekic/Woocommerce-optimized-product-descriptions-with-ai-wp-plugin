@@ -3,7 +3,7 @@
 Plugin Name: Sami Woocommerce AI Product Optimizer
 Plugin URI:  https://yourwebsite.com/sami-optim
 Description: An AI-powered WooCommerce product description optimizer.
-Version:     1.0.0
+Version:     1.0.1
 Author:      Samuel Gjekic
 Author URI:  https://
 */
@@ -90,3 +90,4 @@ function add_custom_button_under_editor() {
     <?php
 }
 add_action( 'edit_form_after_editor', 'add_custom_button_under_editor' );
+
